@@ -2,9 +2,7 @@ Vamos encher o carrinho!
 
 
 - Introdução
-A Instacart é uma plataforma de entrega de supermercado onde os clientes podem fazer um pedido de supermercado e receber a compra em casa, semelhante ao funcionamento do Uber Eats e do iFood.
-
-Os dados fornecidos foram modificados do conjunto original. O tamanho do conjunto de dados foi reduzido para melhorar a eficiência de cálculo, e foram introduzidos valores ausentes e duplicados para simular cenários diversos de análise.
+A Instacart é uma plataforma de entrega de supermercado onde os clientes podem fazer um pedido de supermercado e receber a compra em casa, semelhante ao funcionamento do Uber Eats e do iFood. (Os dados fornecidos foram modificados do conjunto original. O tamanho do conjunto de dados foi reduzido para melhorar a eficiência de cálculo, e foram introduzidos valores ausentes e duplicados para simular cenários diversos de análise)
 
 
 - Objetivo
