@@ -1,4 +1,4 @@
-Vamos encher o carrinho!
+## Vamos encher o carrinho!
 
 
 - Introdução
@@ -18,4 +18,4 @@ Os dados foram modificados para reduzir o tamanho do conjunto e introduzir valor
 
 
 - Instruções de Uso
-Para começar a trabalhar com os dados, você pode carregá-los em uma plataforma de análise de dados, como Pandas para Python ou RStudio para R. Certifique-se de lidar adequadamente com os valores ausentes e duplicados antes de prosseguir com suas análises.
+Para começar a trabalhar com os dados, você pode carregá-los em uma plataforma de análise de dados, como Pandas para Python ou RStudio 
