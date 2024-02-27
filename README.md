@@ -22,6 +22,7 @@ Os dados foram modificados para reduzir o tamanho do conjunto e introduzir valor
 
 ### Instruções de Uso
 Para começar a trabalhar com os dados, você pode carregá-los em uma plataforma de análise de dados, como Pandas para Python ou RStudio
+
 ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
  
 
